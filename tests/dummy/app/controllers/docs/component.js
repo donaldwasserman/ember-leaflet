@@ -3,7 +3,7 @@ import Ember from 'ember';
 
 const { Controller, computed } = Ember;
 
-let URL_PREFIX = 'http://leafletjs.com/reference.html#';
+let URL_PREFIX = 'http://leafletjs.com/reference-1.0.2.html#';
 
 export default Controller.extend({
 
